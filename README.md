@@ -9,6 +9,9 @@ This project was motivated by my professional interest in housing policy and the
 
 The results of this work were captured in a thoroughly-documented [Medium post](https://medium.com/@jsrobson_/london-calling-exploring-the-pre-pandemic-influence-of-short-term-rentals-on-urban-property-47bc2708eb4d). Each Jupyter Notebook instance includes its own documentation on a segment-by-segment basis.
 
+_Project completed in satisfaction of the final project for CIS-5450: Big Data Analytics in the Fall 2023 semester of the University of Pennsylvania’s Master of Computer and Information Technology program.
+Study jointly prepared by C. Peinado, J. Robson, and C.F. Uba, December 2023._
+
 ---
 
 ## Data Attribution
