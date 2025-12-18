@@ -5,7 +5,7 @@
 
 This was a final term group project for the University of Pennsylvania's CIS5450 ("Big Data Analytics"); using Python's data science libraries, we explored the impact of short-term rentals (i.e., Airbnb, VSCO) on the housing market in pre-pandemic (2019) London, United Kingdom. 
 
-This project was motivated by my professional interest in housing policy and the post-recession rise of technology platforms - often referred to as the ["Millennial Lifestyle Subsidy"](https://www.nytimes.com/2021/06/08/technology/farewell-millennial-lifestyle-subsidy.html) - and how they have shaped the affordability of durable goods and services in cities. 
+This project was motivated by my professional interest in housing policy and the post-recession rise of technology platforms - otherwise known as the ["Millennial Lifestyle Subsidy"](https://www.nytimes.com/2021/06/08/technology/farewell-millennial-lifestyle-subsidy.html) - and how they have shaped the affordability of durable goods and services in cities. 
 
 The results of this work were captured in a thoroughly-documented [Medium post](https://medium.com/@jsrobson_/london-calling-exploring-the-pre-pandemic-influence-of-short-term-rentals-on-urban-property-47bc2708eb4d). Each Jupyter Notebook instance includes its own documentation on a segment-by-segment basis.
 
